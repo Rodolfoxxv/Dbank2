@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dbank1 - Versão 1.1
 # Projeto de Sistema Bancário
 ### Descrição
