@@ -36,9 +36,6 @@ Este é um projeto simples de sistema bancário feito com Python, onde o usuári
 * **datetime:** Módulo Python para manipulação de datas e horas.
 * **textwrap:** Módulo Python para formatação de texto.
 
-### Gerenciador do Projeto
-* **UV**
-
 ```markdown
 ## Funcionalidades
 
